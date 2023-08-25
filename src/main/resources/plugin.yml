@@ -1,0 +1,6 @@
+name: NormalTask
+version: '${project.version}'
+main: me.kabusama.normaltask.NormalTask
+commands:
+  task-gui:
+    description: GUI Command
